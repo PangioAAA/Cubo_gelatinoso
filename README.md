@@ -34,13 +34,13 @@ Foram utilizadas ferramentas de Inteligência Artificial generativa, Claude (Ant
 
 ### Instalação do Código
 
-O código principal deste projeto é o arquivo `Cubo_gelatinoso.ipynb`. Junto com ele, é necessário o arquivo `ncca20_hg_fishplug.csv`, que contém os dados de mercúrio em tecido de peixe utilizados no trabalho.
+O código principal deste projeto é o arquivo `Cubo gelatinoso.ipynb`. Junto com ele, é necessário o arquivo `ncca20_hg_fishplug.csv`, que contém os dados de mercúrio em tecido de peixe utilizados no trabalho.
 
 Ao realizar o download, é possível perceber que o arquivo é um Jupyter Notebook, ou seja, deve ser rodado em programas que possuam um Jupyter Kernel, como o JupyterLab ou o Visual Studio Code.
 
 ⚠️ IMPORTANTE ⚠️
 
-Para o funcionamento correto do código, é essencial que o arquivo `ncca20\_hg\_fishplug.csv` esteja salvo no mesmo diretório do notebook.
+Para o funcionamento correto do código, é essencial que o arquivo `ncca20_hg_fishplug.csv` esteja salvo no mesmo diretório do notebook.
 
 ### Instalação das Bibliotecas
 
@@ -50,7 +50,7 @@ Antes de executar o notebook, é preciso garantir que as bibliotecas citadas ant
 
 </div>
 
-1. Abra o `Cubo\_gelatinoso.ipynb` e execute as células em ordem (recomenda-se "Restart Kernel and Run All" para garantir reprodutibilidade).
+1. Abra o `Cubo gelatinoso.ipynb` e execute as células em ordem (recomenda-se "Restart Kernel and Run All" para garantir reprodutibilidade).
 2. O notebook realiza, em sequência: carregamento e tratamento dos dados, análise exploratória e seleção de atributos, divisão treino/teste, codificação e normalização, indução do modelo baseline e do modelo $k$-NN sob diferentes hiperparâmetros.
 3. Ao final, são exibidos gráficos comparando o desempenho das configurações testadas, além do gráfico de valores previstos *vs.* valores reais para o modelo final selecionado.
 
@@ -58,7 +58,7 @@ Antes de executar o notebook, é preciso garantir que as bibliotecas citadas ant
   
 # 📂 Sobre o Dataset 📂
 
-O dataset (`ncca20\_hg\_fishplug.csv`) é proveniente da *National Coastal Condition Assessment* (NCCA), conduzida pela *U.S. Environmental Protection Agency* (EPA), e contém medições de concentração de mercúrio em tecido de peixes coletados em diferentes estados e corpos d'água dos Estados Unidos.
+O dataset (`ncca20_hg_fishplug.csv`) é proveniente da *National Coastal Condition Assessment* (NCCA), conduzida pela *U.S. Environmental Protection Agency* (EPA), e contém medições de concentração de mercúrio em tecido de peixes coletados em diferentes estados e corpos d'água dos Estados Unidos.
 
 # ⚠️ Limitações do Modelo ⚠️
 
