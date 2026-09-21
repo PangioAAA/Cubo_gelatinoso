@@ -12,7 +12,7 @@ Ao longo do trabalho, diferentes conjuntos de hiperparâmetros foram testados �
 
 ### Nota sobre o uso de IA
 
-Foram utilizadas ferramentas de Inteligência Artificial generativa, Claude (Anthropic) e Copilot (Microsoft), em conjunto para: auxílio no uso das bibliotecas `seaborn`, `Matplotlib` `pandas`, `NumPy` e `scikit-learn`, esclarecimento de dúvidas conceituais sobre aprendizado de máquina; formulação do código dos gráficos comparativos, depuração de erros durante o desenvolvimento e revisão gramatical dos textos em Markdown. As decisões técnicas finais - como a escolha de atributos, hiperparâmetros, métricas de avaliação e interpretação dos resultados - são de autoria própria.
+Foram utilizadas ferramentas de Inteligência Artificial generativa, Claude (Anthropic) e Copilot (Microsoft), em conjunto para: auxílio no uso das bibliotecas `seaborn`, `Matplotlib` `pandas`, `NumPy` e `scikit-learn`, esclarecimento de dúvidas conceituais sobre aprendizado de máquina, formulação do código dos gráficos comparativos, depuração de erros durante o desenvolvimento e revisão gramatical dos textos em Markdown. As decisões técnicas finais - como a escolha de atributos, hiperparâmetros, métricas de avaliação e interpretação dos resultados - são de autoria própria.
 
 </div>
 
