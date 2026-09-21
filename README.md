@@ -34,7 +34,7 @@ Foram utilizadas ferramentas de Inteligência Artificial generativa, Claude (Ant
 
 ### Instalação do Código
 
-O código principal deste projeto é o arquivo `Cubo\_gelatinoso.ipynb`. Junto com ele, é necessário o arquivo `ncca20\_hg\_fishplug.csv`, que contém os dados de mercúrio em tecido de peixe utilizados no trabalho.
+O código principal deste projeto é o arquivo `Cubo_gelatinoso.ipynb`. Junto com ele, é necessário o arquivo `ncca20_hg_fishplug.csv`, que contém os dados de mercúrio em tecido de peixe utilizados no trabalho.
 
 Ao realizar o download, é possível perceber que o arquivo é um Jupyter Notebook, ou seja, deve ser rodado em programas que possuam um Jupyter Kernel, como o JupyterLab ou o Visual Studio Code.
 
