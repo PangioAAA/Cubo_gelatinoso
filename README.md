@@ -1,5 +1,3 @@
-!\[Cubo Gelatinoso](https://img.shields.io/badge/Aprendizado%20de%20M%C3%A1quina-Ilum%20Escola%20de%20Ci%C3%AAncia-79CDBF)
-
 # 🐟 Cubo Gelatinoso — Concentração de Mercúrio em Peixes 🐟
 
 Entrega individual introdutória da disciplina de Aprendizado de Máquina, ministrada pelo Prof. Dr. Daniel R. Cassar, no curso de Ciência e Tecnologia, Ilum Escola de Ciência (segundo semestre de 2026).
@@ -81,3 +79,6 @@ Aluno do curso de Ciência e Tecnologia, Ilum Escola de Ciência
 
 \[5] UNITED STATES ENVIRONMENTAL PROTECTION AGENCY (EPA). National Coastal Condition Assessment (NCCA): mercury in fish fillet plug tissue samples, 2020-2022 (ncca20\_hg\_fishplug.csv). Washington, D.C.: U.S. EPA, 2024. Disponível em: https://www.epa.gov/national-aquatic-resource-surveys/data-national-aquatic-resource-surveys. Acesso em: 5 set. 2026.
 
+\[6] AGENCY FOR TOXIC SUBSTANCES AND DISEASE REGISTRY (ATSDR). ToxFAQs for Mercury. Atlanta: U.S. Department of Health and Human Services, 2022. Disponível em: https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=113&toxid=24. Acesso em: 20 set. 2026.
+
+\[7] FACELI, Katti; LORENA, Ana Carolina; GAMA, João; et al. Inteligência Artificial: uma abordagem de Aprendizado de Máquina. 2. ed. Rio de Janeiro: LTC, 2021.
